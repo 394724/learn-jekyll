@@ -29,6 +29,7 @@ This are the contents of the Jekyll front page.
 
 ## Posts
 
+
 See the posts:
 
 <ul>
