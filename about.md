@@ -45,29 +45,29 @@ Cílovou skupinou pro náš web jsou tedy jak mladí lidé cca od 18 let, lidé 
 
 ## Multimédia, která zobrazují a věnují se Chorvatsku
 
-+ https://www.ulozto.cz/!wka3mC6Z/abcd-7-chorvatsko-dalmacie-avi
++ <https://www.ulozto.cz/!wka3mC6Z/abcd-7-chorvatsko-dalmacie-avi>
 
-+ https://www.ulozto.cz/!XfSnMv7Q/23-chorvatsko-cesty-kolem-sveta-avi
++ <https://www.ulozto.cz/!XfSnMv7Q/23-chorvatsko-cesty-kolem-sveta-avi>
 
-+ https://www.ulozto.cz/!K0mtLvqBgzn9/ts-jednotka-poklady-sveta-plitvicke-jazera-chorvatsko-delta-dunaja-rumunsko-25-10-2016-16-27-00-ts
++ <https://www.ulozto.cz/!K0mtLvqBgzn9/ts-jednotka-poklady-sveta-plitvicke-jazera-chorvatsko-delta-dunaja-rumunsko-25-10-2016-16-27-00-ts>
 
-+ https://www.ulozto.cz/!B4ak5zV13/cestomanie-chorvatsko-klenotnice-jadranu-avi
++ <https://www.ulozto.cz/!B4ak5zV13/cestomanie-chorvatsko-klenotnice-jadranu-avi>
 
-+ https://www.ulozto.cz/!x4bxY7LMB/cestomanie-chorvatsko-2001-mp4
++ <https://www.ulozto.cz/!x4bxY7LMB/cestomanie-chorvatsko-2001-mp4>
 
-+ https://www.ulozto.cz/!uBJiRpxVn/cestomanie-chorvatsko-dalmacie-hrda-kraska-stredomori-avi
++ <https://www.ulozto.cz/!uBJiRpxVn/cestomanie-chorvatsko-dalmacie-hrda-kraska-stredomori-avi>
 
-+ https://www.youtube.com/watch?v=o6OiP0lqYho cestopis
++ <https://www.youtube.com/watch?v=o6OiP0lqYho> cestopis
 
-+ https://www.youtube.com/watch?v=mYIE8ll2wgA Chorvatsko - jižní Dalmácie
++ <https://www.youtube.com/watch?v=mYIE8ll2wgA> Chorvatsko - jižní Dalmácie
 
-+ https://www.youtube.com/watch?v=D_p8Mr40Myo průvodce
++ <https://www.youtube.com/watch?v=D_p8Mr40Myo> průvodce
 
-+ https://www.youtube.com/watch?v=5vZ3p1hm7co Chorvatsko Istrie
++ <https://www.youtube.com/watch?v=5vZ3p1hm7co> Chorvatsko Istrie
 
-+ https://www.youtube.com/watch?v=32N_UWui8Sw Krásy divokého Chorvatska
++ <https://www.youtube.com/watch?v=32N_UWui8Sw> Krásy divokého Chorvatska
 
-+ https://www.youtube.com/watch?v=EH0pkcK1qIs Chorvatské národní parky "Plitvická jezera" 
++ <https://www.youtube.com/watch?v=EH0pkcK1qIs> Chorvatské národní parky "Plitvická jezera" 
 
 
 ## Základní obsah webu 
@@ -120,7 +120,7 @@ Cílovou skupinou pro náš web jsou tedy jak mladí lidé cca od 18 let, lidé 
 			+ Korčula
 
 Vizuální inspiraci pro vzhled našeho webu čerpáme z několika webových stránek, přičemž každá stránka využívá své různé designové prvky, které bychom rádi také nějakým způsobem zakomponovali do našeho webu. Jedná se např. o stránky: 
-+ http://www.parkam.cz/ - web, který přináší tipy na dovolenou 
-+ http://morskeplaze.cz/ – web, který se zaměřuje na tipy na dovolenou u moře
++ <http://www.parkam.cz/> - web, který přináší tipy na dovolenou 
++ <http://morskeplaze.cz/> – web, který se zaměřuje na tipy na dovolenou u moře
 
 Informace na našem webu budeme zveřejňovat vždy postupně, s konkrétním zaměřením na danou oblast a možnými tipy, jak zde strávit dovolenou.
