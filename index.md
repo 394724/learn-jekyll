@@ -26,6 +26,7 @@ This are the contents of the Jekyll front page.
 > 
 > William Shakespeare
 
+
 ## Posts
 
 See the posts:
