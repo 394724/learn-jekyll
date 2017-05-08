@@ -14,6 +14,8 @@
 .header {
 	padding: 30px 0;
 	border-bottom: solid;
+	background: 
+		url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/green_dust_scratch.png');
 }
 
 .content {
@@ -21,14 +23,20 @@
 	width: 75%;
 	border-left: solid;
 	padding-left: 30px;
+	background: 
+		url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/green_dust_scratch.png');
 }
 
 nav {
 	float: left;
 	width: 15%;
+	background: 
+		url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/green_dust_scratch.png');
 }
 
 nav ul {
 	list-style-type: none;
 	padding: 0;
+	background: 
+		url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/green_dust_scratch.png');
 }
